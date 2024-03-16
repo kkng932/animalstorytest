@@ -2,3 +2,5 @@
 
 성격 유형 검사 웹 페이지  
 <https://animalstorytest.netlify.app/>
+
+[내용 정리](https://www.notion.so/2b15fa3a3a8f42d4b8fc0f47870a59a0?p=ed316383ec474bfbb1c36fad94b48734&pm=c)
